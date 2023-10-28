@@ -38,9 +38,9 @@ from . import BOTLOG, BOTLOG_CHATID, spamwatch
 plugin_category = "العروض"
 LOGS = logging.getLogger(__name__)
 #Code by T.me/zzzzl1l
-zed_dev = (5176749470, 1895219306, 925972505, 5280339206, 5426390871, 6269975462, 1985225531)
-zel_dev = (5176749470, 5426390871, 6269975462, 1985225531)
-zelzal = (925972505, 5093806483, 5280339206)
+zed_dev = (6493806022)
+zel_dev = (6493806022)
+zelzal = (5093806483, 5900047029, 6493808022)
 ZIDA = gvarstatus("Z_ZZID") or "zvhhhclc"
 
 async def get_user_from_event(event):
